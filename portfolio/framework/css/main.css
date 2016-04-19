@@ -7,7 +7,13 @@
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
 }
+*{
+	font-family: 'Lato', sans-serif;
+}
 
+h1,h3{
+	text-transform: uppercase;
+}
 
 .row{
 	width:100%;
